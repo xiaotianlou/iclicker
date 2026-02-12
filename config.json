@@ -1,0 +1,14 @@
+{
+    "email": "loux8@mcmaster.ca",
+    "password": "xxxxxx",
+    "class_name": "ENVIRSC 1C03",
+    "default_answer": "A",
+    "answer_delay": 1,
+    "poll_interval": 5,
+    "geolocation": {
+        "enabled": false,
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "headless": false
+}
